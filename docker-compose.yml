@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  angularjscrudapp:
+    image: ${DOCKER_REGISTRY}angularjscrudapp
+    build:
+      context: .\AngularJSCRUDApp
+      dockerfile: Dockerfile
