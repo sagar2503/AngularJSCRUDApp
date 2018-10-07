@@ -305,6 +305,7 @@
       <DependentUpon>Dockerfile</DependentUpon>
     </None>
     <None Include="Properties\PublishProfiles\AngularJSCRUDApp - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\AngularJSCRUDApp-Test - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
